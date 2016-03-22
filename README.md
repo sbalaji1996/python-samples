@@ -5,8 +5,8 @@ california-water-usage: a folder containing ipynb, csv, and geojson files that a
 
 optimization-regression-multiplelinearregression: a folder containing ipynb, csv, and py files that allowed me to use the topics of optimization, regression, and multiple linear regression in my analysis of various sources of data.
 
-ants: a folder containing files that pertain to a mock-up of the game “Plants vs Zombies”, written in python.
+ants: a folder containing files that pertain to a mock-up of the game “Plants vs Zombies”, written in python; code was mainly written in ants.py.
 
-maps: a folder containing files that pertain to a restaurant recommendation application, written in python.
+maps: a folder containing files that pertain to a restaurant recommendation application, written in python; code was mainly written in recommend.py.
 
-scheme 3: a folder containing files that pertain to a compiler for a subset of the Scheme 3 language, written in python.
+scheme 3: a folder containing files that pertain to a compiler for a subset of the Scheme 3 language, written in python; code was mainly written in scheme.py.
